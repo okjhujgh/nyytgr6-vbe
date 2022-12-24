@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="4e1223dd-9b01-4eb7-878c-4dbbfa26193a"
+ARG AUUID="661acbac-ccd8-40e0-9517-e2b605cfde6b"
 ARG CADDYIndexPage="https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
